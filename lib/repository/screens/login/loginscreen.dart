@@ -42,7 +42,7 @@ class LoginScreen extends StatelessWidget {
                     height: 20,
                   ),
                   UiHelper.CustomText(
-                      text: "Sujal",
+                      text: "Afshan Khan",
                       color: Color(0XFF000000),
                       fontweight: FontWeight.w500,
                       fontsize: 14),
@@ -50,7 +50,7 @@ class LoginScreen extends StatelessWidget {
                     height: 5,
                   ),
                   UiHelper.CustomText(
-                      text: "78277XXXX",
+                      text: "8421705719",
                       color: Color(0XFF9C9C9C),
                       fontweight: FontWeight.bold,
                       fontsize: 14,
