@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
 
-class Appcolors {
-  static const Color scaffoldbackground = Color(0XFFF7CB45);
+class AppColors{
+  static const Color scaffoldbackgroud=Color(0XFFF7CB45);
 }
