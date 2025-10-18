@@ -1,13 +1,6 @@
----
+## Below is a simple explaination of what things are used with terms for the flutter app
 
-````markdown
-# Flutter Widgets Explained with E-Commerce App Examples
-
-This guide explains key Flutter concepts and widgets with short code snippets and real-world e-commerce examples.
-
----
-
-## 1. Card Widget
+1. Card Widget
 
 Used to display content inside a material-styled box with shadow and rounded corners.
 In an e-commerce app, it’s commonly used for product display cards.
