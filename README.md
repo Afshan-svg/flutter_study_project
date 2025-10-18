@@ -1,4 +1,4 @@
-## Below is a simple explaination of what things are used with terms for the flutter app
+## Below is a simple explaination of what things i used and learnt while building the flutter app
 
 1. Card Widget
 
